@@ -1,6 +1,20 @@
+<div align="center">
+
+![Machine Learning](https://img.shields.io/badge/🤖-Machine_Learning-blueviolet?style=for-the-badge)
+![Time Series](https://img.shields.io/badge/📈-Time_Series-ff69b4?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/🔥-PyTorch-orange?style=for-the-badge)
+![Classification](https://img.shields.io/badge/🎯-Classification-blue?style=for-the-badge)
+![TiReX](https://img.shields.io/badge/🦖-TiReX_Embeddings-success?style=for-the-badge)
+
 # 🦖 TiReX Time Series Classification
 
-A powerful and easy-to-use implementation of **TiReX (Time Series Representation Extraction)** for time series classification tasks. This repository demonstrates how to leverage state-of-the-art embeddings combined with traditional ML classifiers to achieve excellent results on time series data.
+*Bridging the gap in time series analysis through specialized embeddings and powerful ML classifiers*
+
+[Introduction](#-features) • [Installation](#-quick-start) • [Classifiers](#-available-classifiers) • [Notebook](#-example-notebook) • [Results](#-example-results) • [Usage](#-workflow)
+
+---
+
+</div>
 
 ## ✨ Features
 
@@ -97,8 +111,8 @@ On the Italy Power Demand dataset, you can expect:
 | Classifier | Accuracy | F1 Score |
 |------------|----------|----------|
 | Random Forest | ~96% | ~0.96 |
-| Linear | ~89% | ~0.90 |
-| Gradient Boosting | ~95% | ~0.966 |
+| Linear | ~94% | ~0.94 |
+| Gradient Boosting | ~97% | ~0.97 |
 
 *Results may vary based on dataset and hyperparameters*
 
@@ -158,6 +172,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
+<div align="center">
+
 Made with ❤️ using TiReX
 
 **Questions?** Open an issue or reach out to the community!
+
+</div>
